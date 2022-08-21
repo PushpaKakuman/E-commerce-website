@@ -12,7 +12,7 @@ function App() {
     <div>
     <Router>
       <h1>Pushpa</h1>
-      {/* <Header />
+      <Header />
       <main className="py-3">
         <Container>
           <Routes>
@@ -20,7 +20,7 @@ function App() {
           </Routes>
         </Container>
       </main>
-      <Fotter /> */}
+      <Fotter /> 
     </Router>
     </div>
   )
